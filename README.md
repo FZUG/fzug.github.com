@@ -1,6 +1,6 @@
 #新版社区首页
 
-托管于Github,使用香港CDN实现加速.Jekyll实现文章更新...
+托管于Github,使用香港CDN加速.Jekyll实现文章更新...
 
 # OpenTheme
 
