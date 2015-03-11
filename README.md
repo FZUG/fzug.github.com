@@ -1,3 +1,7 @@
+#新版社区首页
+
+托管于Github,使用香港CDN实现加速.Jekyll实现文章更新...
+
 # OpenTheme
 
 Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
