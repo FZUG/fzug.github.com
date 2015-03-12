@@ -26,7 +26,7 @@ h1, h2, h3, h4, h5 {
   /* Android 2.3 */
   background-image: -webkit-repeating-linear-gradient(top left, #f8b6ff 0%, #036078 100%);
   /* IE10+ */
-  background-image: repeating-linear-gradient(to bottom right, #f8b6ff 0%, #036078 100%); }
+  background-image: repeating-linear-gradient(to bottom right, #5DCBAA 0%, #4C675E 100%); }
 
 /* IE8- CSS hack */
 @media \0screen\,screen\9 {
